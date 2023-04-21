@@ -5,4 +5,3 @@
 짜장면도 먹고싶다
 cat은 볶음 짜장면을 만들거다
 cat은 스테이크를 구워야한다_detailed_feature_1
-
